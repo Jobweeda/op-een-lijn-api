@@ -1,0 +1,8 @@
+{
+  "name": "op-een-lijn-api",
+  "version": "1.0.0",
+  "description": "RESTful API for opeenlijn",
+  "main": "index.js",
+  "author": "Job",
+  "license": "MIT"
+}
