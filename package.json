@@ -4,5 +4,11 @@
   "description": "RESTful API for opeenlijn",
   "main": "index.js",
   "author": "Job",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
